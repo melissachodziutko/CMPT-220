@@ -1,5 +1,5 @@
 /*
-Referencing your homework from https://github.com/melissachodziutko/CMPT220/blob/main/Homework%203/LoopsDebug.java
+Referencing your homework from https://github.com/melissachodziutko/CMPT-220/blob/main/Assignment%203/loops.java
 Can you take problems 2, 3, and 5 and turn them into methods, and then call those methods in main?
 Things that may trip you up while working on this:
 1. the code works the same whether it's in a method or not, it just needs some minor variable adjustments probably
