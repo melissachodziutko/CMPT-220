@@ -6,6 +6,9 @@ then print back out every individual letter one letter per line
 I also am requiring a small write up: explain your discovery to me.
 how did you figure out how to do this? can you translate your code into simple terms? 
 you need to explain why you picked your for loop conditional and what's doing the work with the string
+!!!!!!
+Look into things like charAt- DO NOT NAME YOUR VARIABLE "REVERSED". If you do, automatic 0 points!!!!!!
+!!!!!!!
 if you're confused reach out!
  */
 
